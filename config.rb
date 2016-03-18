@@ -1,5 +1,5 @@
 require 'pathname'
-require 'sinatra'
+# require 'sinatra'
 require 'twitter'
 require 'yaml'
 

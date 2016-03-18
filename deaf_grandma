@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+require_relative 'models/runner'
+
+program = Runner.new
+program.start
+
